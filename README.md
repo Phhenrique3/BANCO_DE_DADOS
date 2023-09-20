@@ -1,4 +1,6 @@
-[imagem_ze_delivrey](https://github.com/Phhenrique3/BD/assets/127359574/67541c83-85e0-4c42-9bc1-40c929277a74) 
+![imagem_ze_delivrey](https://github.com/Phhenrique3/BANCO_DE_DADOS/assets/127359574/adccf06e-14d3-4c18-a33e-cc2492ae6dcd)
+
+
 
 
 
@@ -106,6 +108,7 @@ Atributos:
 *  COD_FORNECEDOR: Código do fornecedor que fez a cotação.
 *  VLR_COTACAO: Valor da cotação.
 *  UNIDADE_MEDIDA: Unidade de medida relacionada à cotação (por exemplo, "quilograma" ou "litro").
+*  
    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### ItemPedidoCompra ### 
 A classe ItemPedidoCompra representa os itens individuais dentro de um pedido de compra.
